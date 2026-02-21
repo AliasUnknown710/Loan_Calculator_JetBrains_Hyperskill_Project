@@ -1,0 +1,20 @@
+type: edu
+files:
+  - name: creditcalc/creditcalc.py
+    visible: true
+    learner_created: false
+  - name: test/__init__.py
+    learner_created: false
+  - name: test/tests.py
+    learner_created: false
+  - name: tests.py
+    learner_created: false
+  - name: creditcalc/Annuity Calculator.py
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/projects/90/stages/502/implement#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sat, 21 Feb 2026 01:31:37 UTC"
+record: 3
